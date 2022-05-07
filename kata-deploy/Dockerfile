@@ -1,0 +1,1 @@
+FROM quay.io/kata-containers/kata-deploy:stable
